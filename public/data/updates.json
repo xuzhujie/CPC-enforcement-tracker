@@ -1,0 +1,54 @@
+{
+  "updated_at": "2026-11-19",
+  "source": "cpc-enforcement-tracker src/data/cases.ts",
+  "items": [
+    {
+      "title": "SHEIN · CPC 协同执法",
+      "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/market-places-and-digital-services_en",
+      "date": "2025-05",
+      "summary": "CPC Network notified SHEIN of practices covering discounts, pressure selling, consumer information, labels, sustainability and contact details."
+    },
+    {
+      "title": "Apple · CPC 协同执法",
+      "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/market-places-and-digital-services_en",
+      "date": "2024-11",
+      "summary": "CPC Network notified Apple of geo-blocking practices affecting access, payment means and downloads across Apple Media Services."
+    },
+    {
+      "title": "Temu · CPC 协同执法",
+      "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/market-places-and-digital-services_en",
+      "date": "2024-11",
+      "summary": "CPC Network notified Temu of practices covering fake discounts, pressure selling, forced gamification, consumer information, reviews and contact details."
+    },
+    {
+      "title": "Meta · CPC 协同执法",
+      "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/social-media-online-games-and-search-engines_en",
+      "date": "2024-07-22",
+      "summary": "CPC Network launched a coordinated action focused on Meta practices under EU consumer law."
+    },
+    {
+      "title": "PayPal · CPC 协同执法",
+      "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/market-places-and-digital-services_en",
+      "date": "2024-05-28",
+      "summary": "页面记录 PayPal 对消费者协议条款的多项澄清和删除，并列出政策更新与生效日期。"
+    },
+    {
+      "title": "viagogo · CPC 协同执法",
+      "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/market-places-and-digital-services_en",
+      "date": "2024-05-16",
+      "summary": "页面记录 viagogo 关于票务转售、费用透明度、倒计时消息和退款/条款的承诺。"
+    },
+    {
+      "title": "Tinder · CPC 协同执法",
+      "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/market-places-and-digital-services_en",
+      "date": "2024-04",
+      "summary": "页面记录 Tinder 关于个性化定价、基于年龄的价格差异和个性化折扣告知的承诺。"
+    },
+    {
+      "title": "Vinted · CPC 协同执法",
+      "link": "https://commission.europa.eu/topics/consumers/consumer-rights-and-complaints/enforcement-consumer-protection/coordinated-actions/market-places-and-digital-services_en",
+      "date": "2021-12",
+      "summary": "页面记录 Vinted 对 total price、buyer protection fee、退款和评价政策的修改，并保留未解决的配送费披露问题。"
+    }
+  ]
+}
